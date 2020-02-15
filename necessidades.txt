@@ -1,0 +1,5 @@
+Escopo:
+A empresa X quer desenvolver um sistema utilizando
+carros que voam para realizar viagens com seus usuáeios
+que atendam o preço de ate 10 dolares por viagem.
+(Necessidade do cliente)
