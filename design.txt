@@ -1,0 +1,11 @@
+
+O Cliente vai solicitar o transporte via mobile ou web.
+A plataforma web vai ter um desing diferenciado com HTML5/CSS/JavaScript - 
+Aa plataformas vão ter framework NODE.js
+As plataformas mobile e web com JS- JavaScript terá uma interação impecavel com o úsuario.
+O Bancos de dados será trabalhado dentro do My SQL sever.
+Vou utilizar cloud computing para armazenar os dados dos usúarios.
+O servidor ficar instalado no centro de tecnologia da empresa com comunição com as máquinas.
+Todo backend do sistema vai ser feito em C# e .NET
+
+

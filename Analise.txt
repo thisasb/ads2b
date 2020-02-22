@@ -1,0 +1,9 @@
+
+O Sistema do veículo deve identificar sistema de inteligência artifical (pois ele vai conduir o veículo)
+O Sistema do veículo deve reconhecer a carga econômicamica (pois o veículo vai ser movido a eletricidade)
+O Sistema vai ter uma plataforma mobile e Web para comunicação e solicitação do trasnporte.
+O sistema deve reconhecer o maps aonde está localizado o úsuario e o destino.
+O sistema deve calcular a rota até do local do usúario até o destino, cada kilometro é U$0,50 e até U$10,00 o sistema realiza a viajem.
+O sistema tem comunicação com úsuário.
+O sistema vai ter cadastros do cliente e dos usúarios.
+O sistema deve reconhecer a forma de pagamento somentre a cartão de crédito ou débito. 

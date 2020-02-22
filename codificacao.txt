@@ -1,0 +1,7 @@
+
+O Desenvolvedor vai realizar o sistema com o metodo TDD - Desenvolvimento Orientado por Testes (Test Driven Development).
+Com o método TDD terá o teste first, unitario e integtrado.
+O sistema será feito tbm em POO - Programação Orientada a Objetos.
+Para o controle do desenvolvimento do projeto utilizaremos a metodologia ágil como o Scrum e o Kambam.
+ 
+ 

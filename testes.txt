@@ -1,0 +1,8 @@
+﻿Depois que o sistema for implantado em uma das máquinas, será testado em veículos "TEST", sem clientes.
+Depois testaremos o transporte com clientes de boneco.
+Depois testaremos com clientes usuais (humanos). 
+Depois testaremos a comunicação com as plataformas web e mobile.
+Depois testaremos a forma de pagamento.
+Depois testaremos todo o conforto do úsuario, quanto ao veículo e a utiliação do app e site.
+Teremos uma equipe de QA para testar os software's. 
+
